@@ -1,0 +1,6 @@
+Generated production builds create:
+
+- server-certificate.pfx
+- server-certificate.password.txt
+
+Do not commit generated PFX files, private keys, Root CA keys, or password files.
