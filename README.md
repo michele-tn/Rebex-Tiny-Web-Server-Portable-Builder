@@ -1,6 +1,7 @@
 # Rebex Tiny Web Server Portable Builder
 
 ![Tiny Web Server](https://www.rebex.net/Content/images/TinyWebServer.png)
+
 Portable automation for building a ready-to-run Rebex Tiny Web Server folder with HTTP, HTTPS, and a generated TLS certificate.
 
 The builder downloads the official Rebex Tiny Web Server ZIP package, creates a Rebex-compatible PFX certificate with a generated password, updates `RebexTinyWebServer.exe.config`, and writes helper scripts for administrator startup and client Root CA installation.
